@@ -26,6 +26,6 @@ python notepad_detector.py --image_path {path to image}
 
 ## Demo
 
-![]images/result_examples/5.png)
+![](images/result_examples/5.png)
 
-![]images/result_examples/3.png)
+![](images/result_examples/3.png)
