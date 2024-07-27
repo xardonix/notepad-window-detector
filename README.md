@@ -2,7 +2,7 @@
 
 Ensure you have the following software installed:
 
-Tesseract OCR ()
+Tesseract OCR (https://github.com/UB-Mannheim/tesseract/wiki)
 
 ## Installation
 
