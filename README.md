@@ -1,10 +1,16 @@
+## Prerequisites
+
+Ensure you have the following software installed:
+
+Tesseract OCR ()
+
 ## Installation
 
 **1.clone this repository**
 
 ```
-git clone https://github.com/xardonix/yolo_tracking
-cd yolo_tracking
+git clone https://github.com/xardonix/notepad-window-detector
+cd notepad-window-detector
 ```
 **2.download dependencies**
 
@@ -15,11 +21,11 @@ pip install -r requirements.txt
 ## Usage
 
 ```
-python tracking.py --video_path {path to video} --selected_class {class to filter by (e.g. 'cat')}
+python notepad_detector.py --image_path {path to image}
 ```
 
 ## Demo
 
-![](media/demo1.gif)
+![]images/result_examples/5.png)
 
-![](media/demo2.gif)
+![]images/result_examples/3.png)
